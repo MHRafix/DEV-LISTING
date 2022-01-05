@@ -1,0 +1,14 @@
+.footerStyle{
+  text-align: center;
+}
+.footerStyle h3.credit {
+    color: #bbb;
+    font-weight: 700;
+    font-size: 22px;
+}
+.footerStyle h3.credit a{
+    color: #27ae60;
+    font-size: 20px;
+    text-decoration: none;
+
+}

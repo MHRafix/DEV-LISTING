@@ -1,0 +1,17 @@
+
+.devHire {
+    width: 200px;
+    margin-left: auto;
+    padding: 20px;
+    text-align: left;
+    background: #fff0f0;
+    height: 300px;
+    box-shadow: 1px 1px 6px #777676c9;
+    margin-top: 35px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #27ae60;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}

@@ -1,0 +1,13 @@
+.devInfoCardsHire{
+    margin-top: 50px;
+   display: grid;
+   grid-template-columns: repeat(2, 3fr);   
+}
+.devInfoCardsHire .devInfoCards{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   padding: 10px;
+   width: 1000px;
+}
+
+

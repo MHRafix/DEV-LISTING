@@ -1,0 +1,25 @@
+.headerStyle{
+  color: black;
+  background-color: white;
+  box-shadow: 1px 1px 6px #77767654;
+  margin-top: -20px;
+  padding: 20px;
+}
+
+.headerStyle .headLine h1.logo{
+    color: #27ae60;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: -10px;
+}
+
+.headerStyle .headLine h3{
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.headerStyle .headLine h2{
+    color: #27ae60;
+    font-weight: 700;
+}
